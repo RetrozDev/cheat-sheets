@@ -1,6 +1,6 @@
 # npm run format 
 
-## Cette commande sert à formatter tous vos fichiers de votre projet react ou autre !
+## Cette commande sert à formatter avec prettier tous vos fichiers de votre projet react ou autre !
 
 Pour le faire vous allez devoir rajouter ce code dans votre package.json de votre dossier qui contient vos .CSS, .js et .jsx:
 ```
